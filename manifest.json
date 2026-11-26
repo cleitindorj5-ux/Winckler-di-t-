@@ -1,0 +1,12 @@
+{
+  "name": "Winckler Diät",
+  "short_name": "Winckler",
+  "description": "Acompanhe suas refeições, ganhe pontos e mantenha a rotina até o fim do ano.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#16223b",
+  "theme_color": "#16223b"
+}
